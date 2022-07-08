@@ -1,0 +1,22 @@
+Relevant headers information for 'Allsupernovae.csv'
+     - Name: SNe Ia name	
+     - zcmb: redshift in the rest CMB frame
+     - mb: peak apparent magnitude in rest-frame B band / mag
+     - error_mb: error in peak apparent magnitude / mag
+     - X1: SALT2 stretch parameter
+     - error_X1: error in SALT2 stretch parameter
+     - c: SALT2 colour parameter
+     - error_c: error in colour parameter
+     - LogMst: log_10(PEGASE host galaxy mass estimate/M_solar) 
+     - error_Mst: error in log_10(PEGASE host galaxy mass estimate/M_solar) 
+     - LogSFR: log_10 of the star formation rate (SFR) in M_solar per year
+     - LogSFR_upper: upper error bound of the SFR in M_solar per year
+     - LogSFR_lower: lower error bound of the SFR in M_solar per year
+     - LogsSFR: log_10 of the specific star formation rate (sSFR), the SFR per unit stellar mass, given in units of per year
+     - LogsSFR_upper: upper error bound of the sSFR per year
+     - LogsSFR_lower: lower error bound of the sSFR per year
+    - deltaM_9.9: mass step when split taken at 10^9.9 M_solar / mag
+     - deltaM_10.1:	mass step when split taken at 10^10.1 M_solar / mag
+     - mydeltaM_err: error in best fit mass step / mag
+     - deltaM_sSFR: sSFR step function / mag
+     - deltaM_sSFR_err: error in sSFT step function / mag
