@@ -1,0 +1,31 @@
+Typical galaxy lines in Angstroms
+H
+4341
+4861
+6563
+
+N II
+6548
+6583
+
+O II
+3727
+
+O III
+4959
+5007
+
+Na I 
+5890
+5896
+
+Mg II 
+2798
+
+S II 
+6717
+6731
+
+Ca II H&K
+3969
+3934
